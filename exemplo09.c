@@ -4,8 +4,8 @@ Disciplina:	Algoritmos Computacionais
 Prof.:		Orlewilson B. Maia
 Autor(a):	Seu nome
 Data:		21/05/2018
-Descrição:	Ler N valores informado pelo usuário, 
-			calcular soma e média
+Descrição:	Ler N valores informado pelo 
+			usuário, calcular soma e média
 */
 // Bibliotecas
 #include <stdio.h> 
